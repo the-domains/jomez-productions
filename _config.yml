@@ -1,7 +1,7 @@
 name: Jomez Productions
 favicon: null
-layout_spectrum: 0.726764474529773
-typography_spectrum: 0.20072172256186604
+layout_spectrum: 0.49437
+typography_spectrum: 0.86899
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8516026840079576
-  lightness: 0.21516588260419667
-  saturation: 0.932592079276219
-  rhythmicContrast: 0.21621473017148674
+    - '#2f3035'
+    - '#006d50'
+    - '#40b9aa'
+    - '#fff8ff'
+    - '#888a97'
+  brandStrength: 0.75
+  lightness: 0.125
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
