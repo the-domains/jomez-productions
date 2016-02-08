@@ -1,7 +1,7 @@
 name: Jomez Productions
 favicon: null
-layout_spectrum: 0.49437
-typography_spectrum: 0.86899
+layout_spectrum: 0.50641
+typography_spectrum: 0.87983
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#40b9aa'
     - '#fff8ff'
     - '#888a97'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.125
   saturation: 0.5
   rhythmicContrast: 0.25
