@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jomez Productions]]></title>
+        <description><![CDATA[Jomez Productions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 05:54:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GBO 2015 Final Round-McBeth,McMahon,Schusterick,FeldbergPublished on May 3, 2015]]></title>
+            <description><![CDATA[<article><h1>GBO 2015 Final Round-McBeth,McMahon,Schusterick,FeldbergPublished on May 3, 2015</h1><p>Full Coverage of the Final Round MPO Lead Card at the 2015 Glass Blown Open by Dynamic Discs in Emporia, Kansas. Played at the Emporia Country Club Course. Featuring Paul McBeth, Eagle McMahon, Will Schusterick, and David Feldberg.</p></article>]]></description>
+            <link>undefined5ec37c7c-b4f8-457e-82a1-7d851fafe273/index.html</link>
+            <guid isPermaLink="false">5ec37c7c-b4f8-457e-82a1-7d851fafe273</guid>
+            <pubDate>Mon, 08 Feb 2016 05:54:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
